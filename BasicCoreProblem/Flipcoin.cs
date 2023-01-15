@@ -36,7 +36,7 @@ namespace BasicCoreProblem
             double Head = (CountHead / (double)n) * 100;
             double Tail = (CountTail / (double)n) * 100;
             Console.WriteLine("Percentage of head : " + Head);
-            Console.WriteLine("percentage of tail : " + Tail);
+            Console.WriteLine("percentage of tail : " + Tail+"\n");
         }
     }
 }
