@@ -11,7 +11,8 @@ namespace BasicCoreProblem
             //HarmonicNumber.HarmonicNum();
             // Primefactors.PrimefactorNumber();
             // QuotientRemainder.Qutiont_Remainder();
-            Swap2Numbers.SwappingNumbers();
+            // Swap2Numbers.SwappingNumbers();
+            CheckEvenOdd.EvenOdd();
         }
     }
 }
