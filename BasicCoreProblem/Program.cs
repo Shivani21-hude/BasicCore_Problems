@@ -13,7 +13,8 @@ namespace BasicCoreProblem
             // QuotientRemainder.Qutiont_Remainder();
             // Swap2Numbers.SwappingNumbers();
             //CheckEvenOdd.EvenOdd();
-            CheckAlphabet.VowelConsonent();
+            //CheckAlphabet.VowelConsonent();
+            CheckLargestNumber.CheckLargestNum();
         }
     }
 }
