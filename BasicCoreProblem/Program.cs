@@ -5,8 +5,9 @@ namespace BasicCoreProblem
     {
         static void Main(string[] args)
         {
-            Flipcoin.PerHeadTail();
-           LeapYear.CheckLeapYear();
+            //Flipcoin.PerHeadTail();
+           // LeapYear.CheckLeapYear();
+            PowerofTwo.Poweroftwo();
         }
     }
 }

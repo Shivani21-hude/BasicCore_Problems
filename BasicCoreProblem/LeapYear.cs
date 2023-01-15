@@ -15,19 +15,19 @@ namespace BasicCoreProblem
 
             if (year % 400 == 0)
             {
-                Console.WriteLine("{0} is a leap year ", year);
+                Console.WriteLine("{0} is a leap year \n", year);
             }
             else if (year % 100 == 0)
             {
-                Console.WriteLine("{0} is not a leap year ", year);
+                Console.WriteLine("{0} is not a leap year  \n", year);
             }
             else if (year % 4 == 0)
             {
-                Console.WriteLine("{0} is a leap year ", year);
+                Console.WriteLine("{0} is a leap year \n ", year);
             }
             else
             {
-                Console.WriteLine("{0} is not a leap year ", year);
+                Console.WriteLine("{0} is not a leap year \n", year);
             }
         }
     }
