@@ -8,7 +8,8 @@ namespace BasicCoreProblem
             //Flipcoin.PerHeadTail();
             // LeapYear.CheckLeapYear();
             //PowerofTwo.Poweroftwo();
-            HarmonicNumber.HarmonicNum();
+            //HarmonicNumber.HarmonicNum();
+            Primefactors.PrimefactorNumber();
         }
     }
 }
