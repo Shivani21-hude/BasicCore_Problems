@@ -9,7 +9,9 @@ namespace BasicCoreProblem
             // LeapYear.CheckLeapYear();
             //PowerofTwo.Poweroftwo();
             //HarmonicNumber.HarmonicNum();
-            Primefactors.PrimefactorNumber();
+            // Primefactors.PrimefactorNumber();
+            //QuotientRemainder.Qutiont_Remainder();
+            Swap2Numbers.SwappingNumbers();
         }
     }
 }
